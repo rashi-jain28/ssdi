@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href ="StudentInfoServlet">Click here to view the details</a>
+<a href ="StudentInfoServlet">Click here to view the details.......</a>
 </body>
 </html>
